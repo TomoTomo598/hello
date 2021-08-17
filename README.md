@@ -1,2 +1,4 @@
-# TOMOSHI
-my name is Tomoshi Furukawa. Nice to meet you.
+# 
+my name is Tomy. Nice to meet you.
+
+I love computer.
